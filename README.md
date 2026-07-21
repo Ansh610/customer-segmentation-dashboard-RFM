@@ -14,7 +14,11 @@ The project helps businesses identify high-value customers, understand purchasin
 
 # 📸 Dashboard Preview
 
-![Dashboard Overview](Screenshot 2026-07-22 031117.png)
+![Dashboard Overview]
+<p align="center">
+  <img src="Screenshot 2026-07-22 031117.png" alt="HR Dashboard Preview" width="100%">
+</p>
+
 
 The Streamlit dashboard provides an interactive interface to explore customer segments, key performance indicators, and purchasing behavior using dynamic filters and visual analytics.
 
