@@ -16,7 +16,7 @@ The project helps businesses identify high-value customers, understand purchasin
 
 ![Dashboard Overview]
 <p align="center">
-  <img src="Screenshot 2026-07-22 031117.png" alt="HR Dashboard Preview" width="100%">
+  <img src="Screenshot 2026-07-22 031117.png" alt="Dashboard Preview" width="100%">
 </p>
 
 
@@ -108,7 +108,7 @@ Business Insights
 
 ![Customer Behavior Analysis]
 <p align="center">
-  <img src="Screenshot 2026-07-22 031147.png" alt="HR Dashboard Preview" width="100%">
+  <img src="Screenshot 2026-07-22 031147.png" alt="Dashboard Preview" width="100%">
 </p>
 
 
@@ -128,8 +128,7 @@ The dashboard visualizes customer purchasing behavior using **Recency**, **Frequ
 
 ![Revenue Contribution]
 <p align="center">
-  <img src="Screenshot 2026-07-22 031204.png
-" alt="HR Dashboard Preview" width="100%">
+  <img src="Screenshot 2026-07-22 031204.png" alt="Dashboard Preview" width="100%">
 </p>
 
 
