@@ -106,7 +106,11 @@ Business Insights
 
 # 📈 Customer Behavior Analysis
 
-![Customer Behavior Analysis](images/customer-behavior.png)
+![Customer Behavior Analysis]
+<p align="center">
+  <img src="Screenshot 2026-07-22 031147.png" alt="HR Dashboard Preview" width="100%">
+</p>
+
 
 The dashboard visualizes customer purchasing behavior using **Recency**, **Frequency**, and **Monetary** metrics.
 
@@ -122,7 +126,12 @@ The dashboard visualizes customer purchasing behavior using **Recency**, **Frequ
 
 # 💰 Revenue Contribution Analysis
 
-![Revenue Contribution](images/revenue-analysis.png)
+![Revenue Contribution]
+<p align="center">
+  <img src="Screenshot 2026-07-22 031204.png
+" alt="HR Dashboard Preview" width="100%">
+</p>
+
 
 Analyze how each customer segment contributes to overall business revenue.
 
